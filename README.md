@@ -1,2 +1,2 @@
 # RandWalk
-This was probably my first coding project that I undertook during an online internship, thanks to the pandemic. 
+Constructed a class for simulation and real-time visualisation of a generalized random walk in Python.
